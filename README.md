@@ -34,10 +34,8 @@ The portfolio showcases selected work including:
 
 - **GeoMarket** — 3D geospatial sales visualization
 - **Inventory Classification Engine** — ABC-XYZ SKU classification
-- **CSE Market Signal Bot** — market signals using machine learning and sentiment analysis
 - **Production RAG Chatbot & Agent Pipelines** — retrieval-augmented generation and LangGraph agents
 - **Tile Layout & Wastage Optimizer** — browser-based tile layout calculations
-- **NexaBuild** — engineering and construction services marketplace
 
 ## Technologies
 
