@@ -1,4 +1,4 @@
-# Anuja Bandara — Data & AI Systems
+# Anuja Bandara — AI & Data Analyst
 
 Personal portfolio website for **Anuja Bandara**, a data analyst and AI systems builder based in Colombo, Sri Lanka.
 
